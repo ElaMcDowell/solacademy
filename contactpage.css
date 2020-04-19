@@ -1,0 +1,24 @@
+form.report {
+    background-color: #fee;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.panel {
+    background-color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    padding: 30px;
+}
+
+dt label {
+    font-weight: 700;
+    text-align: left;
+    background-color: white;
+    padding: 2px;
+}
+
+label:hover {
+    color: #333;
+}
