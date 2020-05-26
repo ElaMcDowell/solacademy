@@ -1,0 +1,13 @@
+@media only screen  
+and (min-device-width : 320px)  
+and (max-device-width : 480px) {
+.avatar-size img {min-width: 125px !important; min-height: 125px !important; max-width: 125px !important; max-height: 125px !important;}
+.avatar-size {min-width: 125px !important; min-height: 125px !important; max-width: 125px !important; max-height: 125px !important;}
+}
+
+@media screen
+and (min-device-width : 480px)  
+and (max-device-width : 800px) {
+.avatar-size img {min-width: 125px !important; min-height: 125px !important; max-width: 125px !important; max-height: 125px !important;}
+.avatar-size {min-width: 125px !important; min-height: 125px !important; max-width: 125px !important; max-height: 125px !important;}
+}
