@@ -1,19 +1,23 @@
 @media only screen  
 and (min-device-width : 320px)  
 and (max-device-width : 480px) {
-.postbody p.author {background: #feee; padding: 4px; width: 55%; border-radius: 10px;}
+.postbody p.author {background: #feee; padding: 4px; width: 50%; border-radius: 10px;}
 .postbody ul.profile-icons {margin-top: -2px;}
-.topicglobe {right: 16%;}
-.postbody {width: 78.4% !important;}
+.topicglobe {right: 18% !important;}
+.postbody {width: 74.4% !important;}
+.avatar-size img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
+.avatar-size {background-size: cover; border: solid 1px #fff; margin-top: 9px; max-height: 80px; max-width: 80px;}
 }
 
 @media screen
 and (min-device-width : 480px)  
 and (max-device-width : 800px) {  
-.postbody p.author {background: #feee; padding: 4px; width: 55%; border-radius: 10px;}
+.postbody p.author {background: #feee; padding: 4px; width: 50%; border-radius: 10px;}
 .postbody ul.profile-icons {margin-top: -2px;}
-.topicglobe {right: 16%;}
-.postbody {width: 78.4% !important;}
+.topicglobe {right: 18% !important;}
+.postbody {width: 74.4% !important;}
+.avatar-size img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
+.avatar-size {max-height: 80px !important; max-width: 80px !important;}
 }
 
 .tango {display: none !important;}
