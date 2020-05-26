@@ -1,24 +1,43 @@
-  .tango {display: none !important;}
-  .listadecontacto {display: none !important;}
-  .postprofile {width: 100px !important; max-height: 100px;}
-  .online123 {display: none;}
-  .avatar-size img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
-  .avatar-size {background-size: cover; border: solid 1px #fff; margin-top: 9px; max-height: 80px; max-width: 80px;}
-  .nombrecito {display: none;}
-  .postbody .content {min-height: 42px; margin-top: -10px !important;}
-  .postbody {border-radius: 20px; padding: 10px; width: 80.4% !important; border: 1px solid #eaeaea;}
-  h2.topic-title {display: none;}
-  .postbody p.author {background: #feee; padding: 4px; width: 58%; border-radius: 10px;}
-  img.sprite-arrow_prosilver_down {display: none;}
-  img.sprite-arrow_prosilver_up {display: none;}
-  p.right {display: none;}
-  .pagination {display: none;}
-  .topic-actions13 .buttons {display: none;}
-  .pathname-box2 {display: none;}
-  .topicglobe {float: right; right: 14%; margin-top: 40px; position: absolute; width: 0; height: 0; border-top: 15px solid transparent; border-left: 35px solid #fff; border-bottom: 15px solid transparent;}
-  #socialTitle {margin: 0px 10px 4px; background-color: #fff; border-bottom: 2px solid #FFA384; color: #333; font-family: Gotu; font-size: 20px; padding: 10px 33px 10px 10px; text-align: right; text-transform: uppercase;}
-  #socialtext {background: #fff; padding: 10px; font-size: 11px; margin: 0px 10px 5px; color: #666; text-align: right;}
-  #quicksocial {display: block !important; background-color: #fff; margin: 0px 10px 0px; padding-bottom: 15px; border-left: 1px solid #eaeaea; border-right: 1px solid #eaeaea; border-bottom: 1px solid #eaeaea;}
-  .topic-actions13 {display: none;}
-  .topic-actions12 {display: none;}
-  #socialTellus {background: #fba384; padding: 8px 10px 6px 10px; font-size: 15px; text-transform: uppercase; font-family: gotu; text-align: center; margin: 0px 10px 0px; color: #fff;}
+@media only screen  
+and (min-device-width : 320px)  
+and (max-device-width : 480px) {
+.postbody p.author {background: #feee; padding: 4px; width: 55%; border-radius: 10px;}
+.postbody ul.profile-icons {margin-top: -2px;}
+.topicglobe {right: 16%;}
+.postbody {width: 78.4% !important;}
+}
+
+@media screen
+and (min-device-width : 480px)  
+and (max-device-width : 800px) {  
+.postbody p.author {background: #feee; padding: 4px; width: 55%; border-radius: 10px;}
+.postbody ul.profile-icons {margin-top: -2px;}
+.topicglobe {right: 16%;}
+.postbody {width: 78.4% !important;}
+}
+
+.tango {display: none !important;}
+.postbody ul.profile-icons {margin-top: -2px;}
+.listadecontacto {display: none !important;}
+.postprofile {width: 100px !important; max-height: 100px;}
+.online123 {display: none;}
+.avatar-size img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
+.avatar-size {background-size: cover; border: solid 1px #fff; margin-top: 9px; max-height: 80px; max-width: 80px;}
+.nombrecito {display: none;}
+.postbody .content {min-height: 42px; margin-top: -10px !important;}
+.postbody {border-radius: 20px; padding: 10px; width: 80.4% !important; border: 1px solid #eaeaea;}
+h2.topic-title {display: none;}
+.postbody p.author {background: #feee; padding: 4px; width: 58%; border-radius: 10px;}
+img.sprite-arrow_prosilver_down {display: none;}
+img.sprite-arrow_prosilver_up {display: none;}
+p.right {display: none;}
+.pagination {display: none;}
+.topic-actions13 .buttons {display: none;}
+.pathname-box2 {display: none;}
+.topicglobe {float: right; right: 14%; margin-top: 40px; position: absolute; width: 0; height: 0; border-top: 15px solid transparent; border-left: 35px solid #fff; border-bottom: 15px solid transparent;}
+#socialTitle {margin: 0px 10px 4px; background-color: #fff; border-bottom: 2px solid #FFA384; color: #333; font-family: Gotu; font-size: 20px; padding: 10px 33px 10px 10px; text-align: right; text-transform: uppercase;}
+#socialtext {background: #fff; padding: 10px; font-size: 11px; margin: 0px 10px 5px; color: #666; text-align: right;}
+#quicksocial {display: block !important; background-color: #fff; margin: 0px 10px 0px; padding-bottom: 15px; border-left: 1px solid #eaeaea; border-right: 1px solid #eaeaea; border-bottom: 1px solid #eaeaea;}
+.topic-actions13 {display: none;}
+.topic-actions12 {display: none;}
+#socialTellus {background: #fba384; padding: 8px 10px 6px 10px; font-size: 15px; text-transform: uppercase; font-family: gotu; text-align: center; margin: 0px 10px 0px; color: #fff;}
