@@ -6,7 +6,7 @@ and (max-device-width : 480px) {
 .topicglobe {right: 18% !important;}
 .postbody {width: 74.4% !important;}
 .avatar-size img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
-.avatar-size {background-size: cover; border: solid 1px #fff; margin-top: 9px; max-height: 80px; max-width: 80px;}
+.avatar-size {max-height: 80px !important; max-width: 80px !important;}
 .postprofile img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
 }
 
