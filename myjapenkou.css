@@ -8,7 +8,7 @@ and (max-device-width : 480px) {
 .avatar-size img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
 .avatar-size {max-height: 80px !important; max-width: 80px !important;}
 .postprofile img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
-#quick_reply .sceditor-container.ltr.sourceMode {width: 632px!important;}
+#quick_reply .sceditor-container.ltr.sourceMode {width: 637px!important;}
 }
 
 @media screen
@@ -21,7 +21,7 @@ and (max-device-width : 800px) {
 .avatar-size img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
 .avatar-size {max-height: 80px !important; max-width: 80px !important;}
 .postprofile img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
-#quick_reply .sceditor-container.ltr.sourceMode {width: 632px!important;}
+#quick_reply .sceditor-container.ltr.sourceMode {width: 637px!important;}
 }
 
 .tango {display: none !important;}
