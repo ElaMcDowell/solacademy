@@ -4,7 +4,7 @@ and (max-device-width : 480px) {
 .postbody p.author {background: #feee; padding: 4px; width: 50%; border-radius: 10px;}
 .postbody ul.profile-icons {margin-top: -2px;}
 .topicglobe {right: 18% !important;}
-.postbody {width: 74.4% !important;}
+.postbody {width: 71.4% !important;}
 .avatar-size img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
 .avatar-size {max-height: 80px !important; max-width: 80px !important;}
 .postprofile img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
@@ -17,7 +17,7 @@ and (max-device-width : 800px) {
 .postbody p.author {background: #feee; padding: 4px; width: 50%; border-radius: 10px;}
 .postbody ul.profile-icons {margin-top: -2px;}
 .topicglobe {right: 18% !important;}
-.postbody {width: 74.4% !important;}
+.postbody {width: 71.4% !important;}
 .avatar-size img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
 .avatar-size {max-height: 80px !important; max-width: 80px !important;}
 .postprofile img {max-height: 80px!important; max-width: 80px!important; min-height: 80px; min-width: 80px; object-fit: cover;}
