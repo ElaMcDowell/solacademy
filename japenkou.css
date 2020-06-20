@@ -33,7 +33,7 @@ and (max-device-width : 800px) {
 .avatar-size {background-size: cover; border: solid 1px #fff; margin-top: 9px; max-height: 80px; max-width: 80px;}
 .nombrecito {display: none;}
 .postbody .content {min-height: 42px; margin-top: -10px !important;}
-.postbody {border-radius: 20px; padding: 10px; width: 83.4% !important; border: 1px solid #eaeaea;}
+.postbody {border-radius: 20px; padding: 10px; width: 83.4%; border: 1px solid #eaeaea;}
 h2.topic-title {display: none;}
 .postbody p.author {background: #feee; padding: 4px; width: 58%; border-radius: 10px;}
 img.sprite-arrow_prosilver_down {display: none;}
